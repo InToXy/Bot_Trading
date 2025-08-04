@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+*.egg-info/
+dist/
+build/
+.eggs/
+*.log
+
+# Environnements virtuels
+venv*/
+.env
+.venv/
+env/
+ENV/
+venv_backtrader/
+
+# Jupyter
+.ipynb_checkpoints
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# Données
+data/*.csv
+
+# Secrets
+*.env
