@@ -12,7 +12,7 @@ import logging
 load_dotenv()
 
 # Cryptos étendus pour plus d'opportunités (compte papier)
-SYMBOLS = ['SHIB/USD', 'PEPE/USD', 'DOGE/USD', 'FLOKI/USD', 'BONK/USD', 'ADA/USD', 'MATIC/USD', 'DOT/USD', 'AVAX/USD', 'SOL/USD']  
+SYMBOLS = ['BTC/USD', 'PEPE/USD', 'DOGE/USD', 'FLOKI/USD', 'BONK/USD', 'ADA/USD', 'MATIC/USD', 'DOT/USD', 'AVAX/USD', 'SOL/USD']  
 TIMEFRAME = '1Min'  # Scalping ultra-rapide
 BUDGET = 1000  # Budget de test papier
 RISK_PER_TRADE = 0.15  # 15% par trade (plus conservateur avec plus de capital)
