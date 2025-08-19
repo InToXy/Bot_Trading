@@ -1,3 +1,4 @@
+# This file has been moved to /home/alban/Bot_Trading/Project_trading/live/livetest.py
 import os
 import time
 import pandas as pd
